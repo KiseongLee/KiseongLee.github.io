@@ -104,8 +104,8 @@ analytics:
 # Site Author
 author:
   name: "Kiseong"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Kiseong의 재밌는 인생을 담은 블로그"
+  avatar: "/images/kiseong.jpg"
+  bio: "Kiseong의 재밌는 인생"
   location: "South Korea"
   links:
     - label: "Email"
