@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "ko-KR"
@@ -104,8 +104,8 @@ analytics:
 # Site Author
 author:
   name: "Kiseong"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Kiseong의 재밌는 인생을 담은 블로그"
+  avatar: "/images/kiseong.jpg"
+  bio: "Kiseong의 재밌는 인생"
   location: "South Korea"
   links:
     - label: "Email"
@@ -262,3 +262,8 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_sticky: true
+      toc_label: 목차
+      toc_icon: "fa-sharp fa-solid fa-bars"
+
