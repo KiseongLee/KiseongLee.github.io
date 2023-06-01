@@ -131,6 +131,10 @@ a {
     @extend %tab-focus;
   }
 
+  &:link{
+    color: black;
+  }
+
   &:visited {
     color: black;
     text-decoration: none;
